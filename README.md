@@ -1,3 +1,7 @@
+# Turkey Used Cars Marketplace Dataset (December 2025)
+
+This dataset contains 253,344 used car listings collected from a Turkish online marketplace in December 2025.
+
 ## 🧾 Columns
 
 | Column  | Description |
