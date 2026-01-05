@@ -22,3 +22,7 @@ This dataset is suitable for machine learning regression tasks and exploratory d
 - City names are in Turkish
 - Dataset contains real-world marketplace listings
 
+
+## 🔗 Kaggle
+https://www.kaggle.com/datasets/eyupyilmazx/turkish-used-cars-dataset-december-2025
+
